@@ -4,6 +4,9 @@
 # build output
 /build
 
+#dist output
+/dist
+
 # misc
 .env.local
 .env.development.local

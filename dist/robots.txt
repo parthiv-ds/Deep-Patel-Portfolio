@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://deeppatel055.github.io/Deep-Patel-Portfolio/sitemap.xml
